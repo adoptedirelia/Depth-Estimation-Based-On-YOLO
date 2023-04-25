@@ -10,4 +10,4 @@ python estimate_distance.py --source <your video path> --view-img
 
 ## preview
 
-[pic](./preview/DE.png)
+![pic](./preview/DE.png)

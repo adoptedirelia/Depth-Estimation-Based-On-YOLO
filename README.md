@@ -15,6 +15,8 @@ python estimate_distance.py --source <your video path> --view-img
 
 ## Note
 
+This project may not be precious.
+
 # weight
 
 The project is based on YOLO. However, the weight file is not uploaded, you need to download it by yourself.
